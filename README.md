@@ -82,7 +82,7 @@ Assemble the parts according to the model in the file on the screws. Attach and 
 
 <h3>Scheme of electronic components</h3>
 
-![Image of scheme](https://github.com/Glaurung2000/images/blob/master/scheme.png)
+![Image of scheme](https://github.com/Glaurung2000/IORO2021_FutureEngineers/blob/main/photo/scheme.png)
 
 <h3>Install Software</h3>
 <ul><li><h4>Install Software on PC</h4></li>
